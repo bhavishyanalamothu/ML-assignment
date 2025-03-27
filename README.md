@@ -1,0 +1,1 @@
+This repository contains a tutorial on the implementation and comparison of Perceptron and Multi-Layer Perceptron (MLP) models, showcasing their capabilities on different datasets, including both linear and non-linear scenarios.
